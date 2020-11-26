@@ -1,0 +1,1 @@
+To get ipywidgets working use: jupyter labextension install @jupyter-widgets/jupyterlab-manager
